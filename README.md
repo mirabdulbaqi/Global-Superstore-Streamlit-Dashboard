@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📊 Global Superstore Business Dashboard
 
 ## 📌 Project Overview
@@ -50,3 +51,8 @@ streamlit run app.py
 **Abdul Baqi**
 
 Internship Project
+=======
+# Global-Superstore-Streamlit-Dashboard
+Interactive Business Intelligence Dashboard built with Streamlit, Pandas, and Plotly.
+
+>>>>>>> 93417013b4e701aa587a0c7501d392bc7c9d1fb2
